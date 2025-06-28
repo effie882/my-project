@@ -1,0 +1,11 @@
+{
+    "location": {
+      "name": "Nairobi",
+      "country": "Kenya"
+    },
+    "current": {
+      "temperature": 26,
+      "weather_descriptions": ["Partly cloudy"],
+      "weather_icons": ["https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"]
+    }
+  }
